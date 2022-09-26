@@ -11705,6 +11705,6 @@ body {
 
 .icon-image{
   /*width:100%;*/
-  /*max-width:150px;*/
-  max-height:70px;
+/*  !*max-width:150px;*!*/
+  max-height:50px;
 }
