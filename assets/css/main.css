@@ -2083,7 +2083,6 @@ input, select, textarea {
 	#nav {
 		background-color: #282828;
 		text-align: center;
-		-ms-text-size-adjust: auto;
 		position: fixed;
 		left: 0;
 		top: 0;
@@ -2439,7 +2438,8 @@ input, select, textarea {
 			}
 
 				#nav a {
-					padding: 0 0.75em;
+					-ms-text-size-adjust: auto;
+					padding: 0 0.55em;
 					height: inherit;
 					line-height: inherit;
 					border-radius: 0;
