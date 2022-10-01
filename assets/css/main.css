@@ -2438,7 +2438,7 @@ input, select, textarea {
 			}
 
 				#nav a {
-					-ms-text-size-adjust: auto;
+					font-size: x-small;
 					padding: 0 0.55em;
 					height: inherit;
 					line-height: inherit;
